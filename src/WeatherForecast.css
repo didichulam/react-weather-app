@@ -1,0 +1,8 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast-temperatures-max {
+  color: black;
+  margin-right: 5px;
+}
