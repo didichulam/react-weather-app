@@ -24,6 +24,7 @@ export default function WeatherDailyForecast(props) {
       <img
         src={props.data.condition.icon_url}
         alt={props.data.condition.icon}
+        className="mt-2"
       />{" "}
       <div className="WeatherForecast-temperatures">
         <span className="WeatherForecast-temperatures-max">
